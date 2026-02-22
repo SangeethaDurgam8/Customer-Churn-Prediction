@@ -1,12 +1,10 @@
-***Customer Churn Prediction
-***
+**Customer Churn Prediction**
 This project focuses on predicting customer churn for a telecom service provider.
 The goal is to determine whether a customer is likely to leave the company (churn) or continue using the service.
 
 The prediction is based on factors such as service usage, billing details, contract type, and customer demographics.
 
-**Dataset
-**
+**Dataset**
 The dataset contains customer information from a telecom company.
 Each row represents a single customer and includes the following features:
 

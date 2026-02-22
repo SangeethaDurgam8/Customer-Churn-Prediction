@@ -1,5 +1,5 @@
-**Customer Churn Prediction
-** 
+***Customer Churn Prediction
+***
 This project focuses on predicting customer churn for a telecom service provider.
 The goal is to determine whether a customer is likely to leave the company (churn) or continue using the service.
 
